@@ -1,4 +1,5 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://sldrachain.app/sitemap.xml
+Sitemap: https://sidrachain.app/sitemap.xml
+
